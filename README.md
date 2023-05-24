@@ -1,4 +1,6 @@
 # foodTrackerWeb
 
 - get repo: git clone repoName
-- push code:
+- push code: 
+git commit -m 'message'
+git push
